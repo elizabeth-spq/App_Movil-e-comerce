@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable-v24/fondo_boton.xml" value="0.153" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable-v24/fondo_boton_presionado.xml" value="0.153" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable-v24/fondo_presionado.xml" value="0.153" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable-v24/fondo_presionadoceleste.xml" value="0.153" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable-v24/fondo_presionadolila.xml" value="0.153" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable/fondo_boton_cambio.xml" value="0.153" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable/fondo_presionadoselector.xml" value="0.1625" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.1655" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_agregar.xml" value="0.176" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_contactos.xml" value="0.25416666666666665" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_inicio.xml" value="0.264" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_paises.xml" value="0.25416666666666665" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_pedido.xml" value="0.25416666666666665" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/item_contacto.xml" value="0.25416666666666665" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/item_lista.xml" value="0.253125" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/item_pais.xml" value="0.25416666666666665" />
+        <entry key="..\:/ISIL/2022 TERCER CICLO/APLICACIONES MOVILES PARA ANDROID/FINAL/final version2/app/src/main/res/layout/item_pedido.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="boton_normal">
+        <item name="backgroundTint">@null</item>
+        <item name="android:background">@drawable/fondo_boton_presionado</item>
+        <item name="android:paddingTop">10dp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:paddingLeft">85dp</item>
+        <item name="android:paddingRight">85dp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="subtituloa">
+        <item name="android:fontFamily">@font/pentamedium</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@color/lila</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

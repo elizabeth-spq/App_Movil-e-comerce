@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Entregas</string>
+    <string name="escritorio">E S C R I T O R I O</string>
+    <string name="titulo1">Nuestro destino es tu confianza</string>
+    <string name="logistica">Logistica</string>
+    <string name="logisticaimg">logistica</string>
+    <string name="botonvolver">Volver</string>
+</resources>
